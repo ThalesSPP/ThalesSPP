@@ -1,8 +1,8 @@
-### Olá, Mundo! Me chamo Thales Prado.
+### Hello, World! My name is Thales Prado.
 
-- 🌱 Estudante: Análise e Desenvolvimento de Sistemas
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato interessante: Músico nas horas vagas
+- 🌱 Student: Systems Analysis and Development
+- 💬 Ask me about: Star Wars
+- ⚡ Interesting fact: Musician in his spare time
 
 <div align="center">
   <a href="https://https://github.com/ThalesSPP">
